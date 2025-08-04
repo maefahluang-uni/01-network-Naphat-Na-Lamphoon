@@ -1,7 +1,5 @@
 package th.mfu;
 
-import static org.junit.Assert.assertTrue;
-
 import org.junit.*;
 import java.io.*;
 import java.net.*;
